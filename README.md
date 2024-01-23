@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6M
 **UML Project Diagram Samples:**<br>
 https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
+**UML Project Diagram Samples:**<br>
+https://in.pinterest.com/meeraacademy/project-uml-diagram/
+
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
