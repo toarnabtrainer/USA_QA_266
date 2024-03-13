@@ -55,8 +55,9 @@ https://www.onlinegdb.com/
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
-**HTML Text Tutorial Link:**<br>
+**HTML Text/Video Tutorial Link:**<br>
 https://www.w3schools.com/html/default.asp
+https://www.youtube.com/watch?v=BsDoLVMnmZs
 
 **Example User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
