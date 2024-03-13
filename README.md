@@ -56,7 +56,7 @@ https://www.onlinegdb.com/
 https://htmlcolorcodes.com/
 
 **HTML Text/Video Tutorial Link:**<br>
-https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/html/default.asp<br>
 https://www.youtube.com/watch?v=BsDoLVMnmZs
 
 **Example User Stories:**<br>
